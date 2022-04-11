@@ -1,4 +1,4 @@
-# OCR text extraction
+# OCR table extraction
 
 ## Description
 Your client would like to extract data tables from the CRA ("Compte-Rendu d'Activite"). 
